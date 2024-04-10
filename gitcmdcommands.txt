@@ -1,0 +1,8 @@
+cd desktop
+git init AndmebaasidLOGITpv22
+cd AndmebaasidLOGITpv22
+git config --global user.name "Artur Khachatryan"
+git config --global --list
+git config --global user.email "artur.hatsatrjan228@gmail.com"
+git status
+git clone 
